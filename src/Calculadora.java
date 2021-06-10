@@ -20,6 +20,7 @@ public class Calculadora {
 		multiplicacao = valor1*valor2;
 		divisao = valor1/valor2;
 		
+		System.out.println("--- RESULTADOS ---");
 		System.out.println("A soma dos valores é: " + soma);
 		System.out.println("A subtração entre os números é: " + subtracao);
 		System.out.println("A multiplicação entre os números é: " + multiplicacao);
